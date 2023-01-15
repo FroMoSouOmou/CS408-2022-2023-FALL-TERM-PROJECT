@@ -1,0 +1,18 @@
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+
+# Build and debug files
+*.log
+*.vs
+bin
+obj
+
+# User-specific files
+*.user
+*.sln
+
+# Resources
+*.resx
+*.resources
